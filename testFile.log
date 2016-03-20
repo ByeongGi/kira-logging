@@ -1,0 +1,65 @@
+428  [main] TRACE k.common.logging.core.Sample - trace
+431  [main] DEBUG k.common.logging.core.Sample - debug
+431  [main] INFO  k.common.logging.core.Sample - info
+432  [main] WARN  k.common.logging.core.Sample - warn
+432  [main] ERROR k.common.logging.core.Sample - error
+270  [main] TRACE k.common.logging.core.Sample - trace
+273  [main] DEBUG k.common.logging.core.Sample - debug
+273  [main] INFO  k.common.logging.core.Sample - info
+273  [main] WARN  k.common.logging.core.Sample - warn
+273  [main] ERROR k.common.logging.core.Sample - error
+[2016-03-20 20:02:19,681] 244  [main] TRACE k.common.logging.core.Sample - trace
+[2016-03-20 20:02:19,684] 247  [main] DEBUG k.common.logging.core.Sample - debug
+[2016-03-20 20:02:19,684] 247  [main] INFO  k.common.logging.core.Sample - info
+[2016-03-20 20:02:19,684] 247  [main] WARN  k.common.logging.core.Sample - warn
+[2016-03-20 20:02:19,684] 247  [main] ERROR k.common.logging.core.Sample - error
+[2016-03-20 20:05:48,585] 241  [main] TRACE k.common.logging.core.Sample - trace
+run[2016-03-20 20:05:48,589] 245  [main] DEBUG k.common.logging.core.Sample - debug
+run[2016-03-20 20:05:48,589] 245  [main] INFO  k.common.logging.core.Sample - info
+run[2016-03-20 20:05:48,589] 245  [main] WARN  k.common.logging.core.Sample - warn
+run[2016-03-20 20:05:48,590] 246  [main] ERROR k.common.logging.core.Sample - error
+run[2016-03-20 20:08:25,466] 251  [main] TRACE k.common.logging.core.Sample - trace
+  Caller+0	 at kirarepository.common.logging.core.Sample.run(Sample.java:17)
+Caller+1	 at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+ [run][2016-03-20 20:08:25,471] 256  [main] DEBUG k.common.logging.core.Sample - debug
+  Caller+0	 at kirarepository.common.logging.core.Sample.run(Sample.java:18)
+Caller+1	 at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+ [run][2016-03-20 20:08:25,472] 257  [main] INFO  k.common.logging.core.Sample - info
+  Caller+0	 at kirarepository.common.logging.core.Sample.run(Sample.java:19)
+Caller+1	 at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+ [run][2016-03-20 20:08:25,472] 257  [main] WARN  k.common.logging.core.Sample - warn
+  Caller+0	 at kirarepository.common.logging.core.Sample.run(Sample.java:20)
+Caller+1	 at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+ [run][2016-03-20 20:08:25,472] 257  [main] ERROR k.common.logging.core.Sample - error
+  Caller+0	 at kirarepository.common.logging.core.Sample.run(Sample.java:21)
+Caller+1	 at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+ [run][2016-03-20 20:09:17,160] 251  [main] TRACE k.common.logging.core.Sample - trace
+  Caller+0	 at kirarepository.common.logging.core.Sample.run(Sample.java:17)
+ [run][2016-03-20 20:09:17,164] 255  [main] DEBUG k.common.logging.core.Sample - debug
+  Caller+0	 at kirarepository.common.logging.core.Sample.run(Sample.java:18)
+ [run][2016-03-20 20:09:17,164] 255  [main] INFO  k.common.logging.core.Sample - info
+  Caller+0	 at kirarepository.common.logging.core.Sample.run(Sample.java:19)
+ [run][2016-03-20 20:09:17,165] 256  [main] WARN  k.common.logging.core.Sample - warn
+  Caller+0	 at kirarepository.common.logging.core.Sample.run(Sample.java:20)
+ [run][2016-03-20 20:09:17,165] 256  [main] ERROR k.common.logging.core.Sample - error
+  Caller+0	 at kirarepository.common.logging.core.Sample.run(Sample.java:21)
+ [run][2016-03-20 20:10:09,445] 240  [main] TRACE k.common.logging.core.Sample - trace Caller+0	 at kirarepository.common.logging.core.Sample.run(Sample.java:17)
+
+[2016-03-20 20:10:09,448] 243  [main] DEBUG k.common.logging.core.Sample - debug Caller+0	 at kirarepository.common.logging.core.Sample.run(Sample.java:18)
+
+[2016-03-20 20:10:09,449] 244  [main] INFO  k.common.logging.core.Sample - info Caller+0	 at kirarepository.common.logging.core.Sample.run(Sample.java:19)
+
+[2016-03-20 20:10:09,449] 244  [main] WARN  k.common.logging.core.Sample - warn Caller+0	 at kirarepository.common.logging.core.Sample.run(Sample.java:20)
+
+[2016-03-20 20:10:09,449] 244  [main] ERROR k.common.logging.core.Sample - error Caller+0	 at kirarepository.common.logging.core.Sample.run(Sample.java:21)
+
+[2016-03-20 20:10:34,495] 257  [main] TRACE k.common.logging.core.Sample - trace
+Caller+0	 at kirarepository.common.logging.core.Sample.run(Sample.java:17)
+[2016-03-20 20:10:34,500] 262  [main] DEBUG k.common.logging.core.Sample - debug
+Caller+0	 at kirarepository.common.logging.core.Sample.run(Sample.java:18)
+[2016-03-20 20:10:34,500] 262  [main] INFO  k.common.logging.core.Sample - info
+Caller+0	 at kirarepository.common.logging.core.Sample.run(Sample.java:19)
+[2016-03-20 20:10:34,501] 263  [main] WARN  k.common.logging.core.Sample - warn
+Caller+0	 at kirarepository.common.logging.core.Sample.run(Sample.java:20)
+[2016-03-20 20:10:34,501] 263  [main] ERROR k.common.logging.core.Sample - error
+Caller+0	 at kirarepository.common.logging.core.Sample.run(Sample.java:21)
